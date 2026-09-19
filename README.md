@@ -16,6 +16,10 @@ The system supports three access methods:
 
 When authentication is successful, the ESP32 controls the locking and door mechanisms using servo motors. The OLED display provides system and authentication status.
 
+## 📷 Project Prototype
+
+![ESP32 IoT Smart Lock Prototype](Screenshot_20260919-143649_WhatsApp.png)
+
 ## ✨ Features
 
 - ESP32-based embedded control
