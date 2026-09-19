@@ -204,6 +204,18 @@ This was developed as a group academic project titled:
 
 The project combines embedded systems, IoT communication, RFID authentication, biometric authentication, OLED display, and servo-based door control.
 
+## 👤 My Contribution
+
+As a member of the project team, I contributed to the development of the ESP32 IoT Smart Lock system.
+
+My contributions included:
+
+- ESP32 programming and embedded system development
+- RFID authentication implementation
+- Fingerprint authentication integration
+- Wi-Fi and Blynk connectivity
+- Project documentation and technical report preparation
+  
 ## 🚀 Future Improvements
 
 Possible future improvements include:
